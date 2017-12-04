@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/Microsoft/BotFramework-DirectLineJS.git"
+    "url": "git://git@github.com/Flyreel/BotFramework-DirectLineJS"
   },
   "author": "Microsoft Corp",
   "license": "MIT",
